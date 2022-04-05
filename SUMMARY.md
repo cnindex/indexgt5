@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 
-* [目录与彩插](index.md)
+* [目录与彩插](post/index.md)
 
 * [序章](post/0.md)
 
