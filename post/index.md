@@ -8,4 +8,3 @@
 
 ![0](https://cnindex.github.io/index5/img/5.jpg)
 
-![0](https://cnindex.github.io/index5/img/2.jpg)
