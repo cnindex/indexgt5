@@ -4,7 +4,7 @@
 	"language": "zh-Hans",
     "description": "创约·魔法禁书目录5 汉化",
     "plugins": [
-		"page-toc-button",
+		"ancre-navigation",
         "chapter-fold",         
         "code",                 
         "splitter",             
