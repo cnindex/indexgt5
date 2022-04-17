@@ -4,4 +4,4 @@
 
 镰池和马复仇者汉化组 汉化
 
-![0](https://cnindex.github.io/index5/img/-1.jpg)
+![0](https://cnindex.github.io/indexgt5/img/-1.jpg)
