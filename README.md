@@ -2,6 +2,6 @@
 
 创约·魔法禁书目录5
 
-镰池和马复仇者汉化组 汉化
+由某树状图的汉化组汉化并发布
 
 ![0](https://cnindex.github.io/indexgt5/img/-1.jpg)
